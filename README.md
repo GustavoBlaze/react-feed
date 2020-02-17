@@ -19,4 +19,6 @@ As informações contidas na interface são **estáticas** e não precisam refle
 
 ### Tela da aplicação
 
-![Facebook](img/resultado.png)
+<h1 align="center">
+  <img alt="resultado" src="https://raw.githubusercontent.com/GustavoBlaze/react-feed/master/img/resultado.png" />
+</h1>
